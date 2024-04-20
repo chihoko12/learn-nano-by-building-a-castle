@@ -42,3 +42,8 @@ nano castle.sh
 bash castle.sh
 nano castle.sh
 bash castle.sh
+git remote -v
+git remote git remote origin set-url https://github.com/chihoko12/learn-nano-by-building-a-castle
+git remote origin set-url https://github.com/chihoko12/learn-nano-by-building-a-castle
+git remote set-url origin https://github.com/chihoko12/learn-nano-by-building-a-castle
+git remote -v
